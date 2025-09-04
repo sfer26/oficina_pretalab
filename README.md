@@ -1,2 +1,2 @@
-# oficina_pretalab
-Oficina PretaLab de Git e Python para Dados
+# README
+# Oficina de Git e GitHub da Pretalab | Ciclo 14 | Ano 2025
