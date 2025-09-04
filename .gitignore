@@ -1,0 +1,5 @@
+# Arquivos temporários do editor Kate
+*.kate-swp
+
+# Arquivos de senhas e segredos - NUNCA ENVIAR!
+keypassgit.txt
